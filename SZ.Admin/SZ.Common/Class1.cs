@@ -8,5 +8,9 @@ namespace SZ.Common
 {
     public class Class1
     {
+        public string GetStr()
+        {
+            return "hello NUnit";
+        }
     }
 }
